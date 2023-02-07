@@ -1,0 +1,26 @@
+#######Customer Data#############
+
+router: 
+  - name: csr_router1
+    host: 13.59.159.251
+
+    username: ec2-user
+    password: abc123
+
+  - name: csr_router2
+    host: 3.138.107.241
+
+    username: ec2-user
+    password: abc123
+
+  - name: csr_router3
+    host: 3.22.242.46
+
+    username: ec2-user
+    password: abc123
+    
+  - name: csr_router4
+    host: 3.139.73.180
+
+    username: ec2-user
+    password: abc123    

@@ -1,0 +1,3 @@
+adev,aint,aippeer,bdev,bint,bippeer
+csr_router1,gigabitethernet1,10.0.1.52,csr_router2,gigabitethernet1,10.0.0.30
+csr_router3,gigabitethernet1,10.0.1.168,csr_router4,gigabitethernet1,10.0.0.154
